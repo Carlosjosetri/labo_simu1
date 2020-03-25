@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/simu/labo/display_tools.h
+
+D:/simu/labo/main.cpp
+iostream
+-
+math_tools.h
+D:/simu/labo/math_tools.h
+display_tools.h
+D:/simu/labo/display_tools.h
+stdlib.h
+-
+
+D:/simu/labo/math_tools.h
+vector
+-
+math.h
+D:/simu/labo/math.h
+stdlib.h
+D:/simu/labo/stdlib.h
+
